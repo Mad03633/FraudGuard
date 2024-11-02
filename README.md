@@ -10,7 +10,7 @@ FraudGuard is an AI-powered fraud detection application developed to identify an
 ## How It Works
 1. Credit Card Fraud Detection
 - Data Upload: Upload a CSV file containing credit card transactions.
-![](images\upload.jpg)
+![upload](images\upload.jpg)
 - Data Overview: View the first few rows, descriptive statistics, and details on fraud vs. valid transactions.
 ![](images\overview.jpg)
 - Correlation Matrix: Visualize feature correlations.
