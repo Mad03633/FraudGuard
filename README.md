@@ -23,6 +23,17 @@ FraudGuard is an AI-powered fraud detection application developed to identify an
 - Data Upload: Upload a CSV file for online payment fraud detection.
 - Data Preprocessing: The application optimizes memory usage and creates dummy variables for categorical features.
 - Data Visualization: Visualize the data distribution and correlation heatmap.
+![](/images/corr_heatmap.jpg)
 - Model Training: Train and compare multiple models (Logistic Regression, XGBoost, SVM, Random Forest) on AUC scores.
+![](images/model_train_2.jpg)
 - Model Evaluation: Generate a confusion matrix for the XGBoost model to assess prediction accuracy.
 
+## Requirements
+- Python 3.7 or above
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
+- Seaborn
+- Matplotlib
+- XGBoost
