@@ -16,7 +16,9 @@ FraudGuard is an AI-powered fraud detection application developed to identify an
 - Correlation Matrix: Visualize feature correlations.
 ![](images/corr_matrix.jpg)
 - Model Training: Train a Random Forest model and view performance metrics including accuracy, precision, recall, F1 score, and Matthews Correlation Coefficient.
+![](images/model_train.jpg)
 - Confusion Matrix: Visualize the confusion matrix to see the model's predictions.
+![](images/confusion_matrix.jpg)
 2. Online Payment Fraud Detection
 - Data Upload: Upload a CSV file for online payment fraud detection.
 - Data Preprocessing: The application optimizes memory usage and creates dummy variables for categorical features.
